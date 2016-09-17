@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Testr</string>
+    <string name="my_tb_titel">This is my toolbar</string>
+    <string name="my_tb_subtitle">this is a subtitle</string>
+    <string name="menu_1">option 1</string>
+    <string name="menu_2">option 2</string>
+    <string name="menu_3">option 3</string>
+</resources>
